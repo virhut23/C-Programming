@@ -1,0 +1,3 @@
+/Users/apple/Desktop/CV/Banking_System_C/cmake-build-debug/CMakeFiles/banking_system.dir
+/Users/apple/Desktop/CV/Banking_System_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/CV/Banking_System_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

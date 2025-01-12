@@ -1,0 +1,3 @@
+Elton,a,Bracaj,18,kari,eltontashpon
+3 19655.000000 D20000.000000 W345.000000 10.000000
+Virvi,Toni,Huta,18,rio,1234
